@@ -28,7 +28,7 @@ I am always eager to learn, adapt, and take on new challenges in cybersecurity.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karanbir%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karanbir-singh-66a649376)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karanbir%20Singh-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/karanbir-singh9533)
 
 📧 Email: karanbir.9533@gmail.com
 
