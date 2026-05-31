@@ -6,7 +6,7 @@ I have hands-on experience in security operations, working with SIEM tools like 
 
 My core skills include SIEM operations, SPL & KQL querying, threat detection, incident response, log analysis, and vulnerability management.  
 
-**Certifications:** Microsoft SC-200 |Splunk Core Certified Power User | Splunk Certified Core User | Certified Ethical Hacker (CEH)  
+**Certifications:** Microsoft SC-200 | Splunk Core Certified Power User | Splunk Certified Core User | Certified Ethical Hacker (CEH)  
 
 I am always eager to learn, adapt, and take on new challenges in cybersecurity.
 
